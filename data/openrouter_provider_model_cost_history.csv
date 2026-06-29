@@ -2266,121 +2266,121 @@ snapshot_date,provider,raw_provider_name,model_id,model_name,model_label,prompt_
 2026-06-27,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-35b-a3b,Qwen: Qwen3.6 35B A3B,Qwen3.6 35B A3B,2.5e-07,1.25e-06,0.25,1.25,0.75,0.5,0.5
 2026-06-27,Weights & Biases / CoreWeave,WandB,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.39e-06,4.4e-06,1.39,4.4,2.895,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek V3,3.2e-07,8.9e-07,0.32,0.8899999999999999,0.6049999999999999,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek V3 0324,2e-07,7.7e-07,0.19999999999999998,0.77,0.48500000000000004,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek V3 0324,2e-07,7.7e-07,0.1999999999999999,0.77,0.485,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,2.1e-07,7.9e-07,0.21,0.7899999999999999,0.5,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-r1-0528,DeepSeek: R1 0528,R1 0528,5e-07,2.15e-06,0.5,2.1500000000000004,1.325,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-v3.1-terminus,DeepSeek: DeepSeek V3.1 Terminus,DeepSeek V3.1 Terminus,2.7e-07,9.5e-07,0.27,0.95,0.61,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,2.6e-07,3.8e-07,0.26,0.38,0.32,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1e-07,2e-07,0.09999999999999999,0.19999999999999998,0.15,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1e-07,2e-07,0.0999999999999999,0.1999999999999999,0.15,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.3e-06,2.6e-06,1.3,2.6,1.95,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,google/gemma-3-12b-it,Google: Gemma 3 12B,Gemma 3 12B,5e-08,1.5e-07,0.049999999999999996,0.15,0.09999999999999999,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,8e-08,1.6e-07,0.08,0.16,0.12000000000000001,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,google/gemma-3-4b-it,Google: Gemma 3 4B,Gemma 3 4B,5e-08,1e-07,0.049999999999999996,0.09999999999999999,0.075,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,7e-08,3.4e-07,0.07,0.33999999999999997,0.205,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,google/gemma-3-12b-it,Google: Gemma 3 12B,Gemma 3 12B,5e-08,1.5e-07,0.0499999999999999,0.15,0.0999999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,8e-08,1.6e-07,0.08,0.16,0.12,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,google/gemma-3-4b-it,Google: Gemma 3 4B,Gemma 3 4B,5e-08,1e-07,0.0499999999999999,0.0999999999999999,0.075,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,7e-08,3.4e-07,0.07,0.3399999999999999,0.205,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.2e-07,3.7e-07,0.12,0.37,0.245,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.3e-07,3.8e-07,0.13,0.38,0.255,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,gryphe/mythomax-l2-13b,MythoMax 13B,MythoMax 13B,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,Llama 3.1 70B Instruct,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,3e-08,0.02,0.03,0.024999999999999998,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.049999999999999996,0.034999999999999996,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,gryphe/mythomax-l2-13b,MythoMax 13B,MythoMax 13B,4e-07,4e-07,0.3999999999999999,0.3999999999999999,0.3999999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,Llama 3.1 70B Instruct,4e-07,4e-07,0.3999999999999999,0.3999999999999999,0.3999999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,3e-08,0.02,0.03,0.0249999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.0499999999999999,0.0349999999999999,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.2-11b-vision-instruct,Meta: Llama 3.2 11B Vision Instruct,Llama 3.2 11B Vision Instruct,3.45e-07,3.45e-07,0.345,0.345,0.345,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1e-07,3.2e-07,0.09999999999999999,0.32,0.21,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1e-07,3.2e-07,0.0999999999999999,0.32,0.21,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1e-07,3e-07,0.0999999999999999,0.3,0.1999999999999999,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama Guard 4 12B,1.8e-07,1.8e-07,0.18,0.18,0.18,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,microsoft/phi-4,Microsoft: Phi 4,Phi 4,7e-08,1.4e-07,0.07,0.14,0.105,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,1.5e-07,1.15e-06,0.15,1.15,0.65,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,2.5e-07,1e-06,0.25,1.0,0.625,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,4.5e-07,2.1e-06,0.44999999999999996,2.0999999999999996,1.275,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,2e-08,4e-08,0.02,0.04,0.030000000000000002,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-small-24b-instruct-2501,Mistral: Mistral Small 3,Mistral Small 3,5e-08,8e-08,0.049999999999999996,0.08,0.065,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-small-3.2-24b-instruct,Mistral: Mistral Small 3.2 24B,Mistral Small 3.2 24B,7.5e-08,2e-07,0.075,0.19999999999999998,0.1375,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,4.5e-07,2.25e-06,0.44999999999999996,2.25,1.35,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,4.5e-07,2.1e-06,0.4499999999999999,2.1,1.275,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,2e-08,4e-08,0.02,0.04,0.03,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-small-24b-instruct-2501,Mistral: Mistral Small 3,Mistral Small 3,5e-08,8e-08,0.0499999999999999,0.08,0.065,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,mistralai/mistral-small-3.2-24b-instruct,Mistral: Mistral Small 3.2 24B,Mistral Small 3.2 24B,7.5e-08,2e-07,0.075,0.1999999999999999,0.1375,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,4.5e-07,2.25e-06,0.4499999999999999,2.25,1.35,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,7.5e-07,3.5e-06,0.75,3.5,2.125,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,7.4e-07,3.5e-06,0.74,3.5,2.12,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,nousresearch/hermes-3-llama-3.1-405b,Nous: Hermes 3 405B Instruct,Hermes 3 405B Instruct,1e-06,1e-06,1.0,1.0,1.0,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,nousresearch/hermes-3-llama-3.1-70b,Nous: Hermes 3 70B Instruct,Hermes 3 70B Instruct,7e-07,7e-07,0.7,0.7,0.7,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,nvidia/llama-3.3-nemotron-super-49b-v1.5,NVIDIA: Llama 3.3 Nemotron Super 49B V1.5,Llama 3.3 Nemotron Super 49B V1.5,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,8.5e-08,4e-07,0.08499999999999999,0.39999999999999997,0.24250000000000002,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,nvidia/llama-3.3-nemotron-super-49b-v1.5,NVIDIA: Llama 3.3 Nemotron Super 49B V1.5,Llama 3.3 Nemotron Super 49B V1.5,4e-07,4e-07,0.3999999999999999,0.3999999999999999,0.3999999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.0499999999999999,0.1999999999999999,0.125,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,8.5e-08,4e-07,0.0849999999999999,0.3999999999999999,0.2425,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,5e-07,2.2e-06,0.5,2.2,1.35,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,3.9e-08,1.9e-07,0.039,0.19,0.1145,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,3e-08,1.4e-07,0.03,0.14,0.085,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.6e-07,4e-07,0.36,0.39999999999999997,0.37999999999999995,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-14b,Qwen: Qwen3 14B,Qwen3 14B,1.2e-07,2.4e-07,0.12,0.24,0.17999999999999997,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,1e-07,0.09,0.09999999999999999,0.09499999999999999,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,2.3e-07,2.3e-06,0.22999999999999998,2.3,1.265,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.6e-07,4e-07,0.36,0.3999999999999999,0.3799999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-14b,Qwen: Qwen3 14B,Qwen3 14B,1.2e-07,2.4e-07,0.12,0.24,0.1799999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,1e-07,0.09,0.0999999999999999,0.0949999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,2.3e-07,2.3e-06,0.2299999999999999,2.3,1.265,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-30b-a3b,Qwen: Qwen3 30B A3B,Qwen3 30B A3B,1.2e-07,5e-07,0.12,0.5,0.31,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,8e-08,2.8e-07,0.08,0.28,0.18000000000000002,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,8e-08,2.8e-07,0.08,0.28,0.18,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,3e-07,1e-06,0.3,1.0,0.6499999999999999,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-next-80b-a3b-instruct,Qwen: Qwen3 Next 80B A3B Instruct,Qwen3 Next 80B A3B Instruct,9e-08,1.1e-06,0.09,1.1,0.595,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B Instruct,2e-07,8.8e-07,0.19999999999999998,0.88,0.54,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B Instruct,2e-07,8.8e-07,0.1999999999999999,0.88,0.54,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B Instruct,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-27b,Qwen: Qwen3.5-27B,Qwen3.5-27B,2.6e-07,2.6e-06,0.26,2.6,1.4300000000000002,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-35b-a3b,Qwen: Qwen3.5-35B-A3B,Qwen3.5-35B-A3B,1.4e-07,1e-06,0.14,1.0,0.57,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,4.5e-07,3e-06,0.44999999999999996,3.0,1.725,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1e-07,1.5e-07,0.09999999999999999,0.15,0.125,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,3.2e-07,3.2e-06,0.32,3.1999999999999997,1.7599999999999998,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,4e-08,5e-08,0.04,0.049999999999999996,0.045,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,4.5e-07,3e-06,0.4499999999999999,3.0,1.725,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1e-07,1.5e-07,0.0999999999999999,0.15,0.125,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,3.2e-07,3.2e-06,0.32,3.2,1.7599999999999998,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,4e-08,5e-08,0.04,0.0499999999999999,0.045,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,sao10k/l3.1-euryale-70b,Sao10K: Llama 3.1 Euryale 70B v2.2,Llama 3.1 Euryale 70B v2.2,8.5e-07,8.5e-07,0.85,0.85,0.85,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,stepfun/step-3.5-flash,StepFun: Step 3.5 Flash,Step 3.5 Flash,9e-08,3e-07,0.09,0.3,0.19499999999999998,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.19999999999999998,1.15,0.675,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,stepfun/step-3.5-flash,StepFun: Step 3.5 Flash,Step 3.5 Flash,9e-08,3e-07,0.09,0.3,0.1949999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.1999999999999999,1.15,0.675,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,z-ai/glm-4.6,Z.ai: GLM 4.6,GLM 4.6,4.3e-07,1.74e-06,0.43,1.74,1.085,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,4e-07,1.75e-06,0.39999999999999997,1.75,1.075,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,6e-08,4e-07,0.06,0.39999999999999997,0.22999999999999998,0.5,0.5
-2026-06-28,DeepInfra,DeepInfra,z-ai/glm-5,Z.ai: GLM 5,GLM 5,6e-07,2.08e-06,0.6,2.08,1.3399999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,4e-07,1.75e-06,0.3999999999999999,1.75,1.075,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,6e-08,4e-07,0.06,0.3999999999999999,0.2299999999999999,0.5,0.5
+2026-06-28,DeepInfra,DeepInfra,z-ai/glm-5,Z.ai: GLM 5,GLM 5,6e-07,2.08e-06,0.6,2.08,1.34,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.05e-06,3.5e-06,1.0499999999999998,3.5,2.275,0.5,0.5
 2026-06-28,DeepInfra,DeepInfra,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,9.5e-07,3e-06,0.95,3.0,1.975,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,4.25e-07,1.36e-06,0.425,1.3599999999999999,0.8925,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.12e-07,2.24e-07,0.112,0.224,0.16799999999999998,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,4.25e-07,1.36e-06,0.425,1.36,0.8925,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.12e-07,2.24e-07,0.112,0.224,0.1679999999999999,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.392e-06,2.784e-06,1.392,2.784,2.088,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,2.5e-07,8.7e-07,0.25,0.87,0.56,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,2.25e-07,9e-07,0.22499999999999998,0.8999999999999999,0.5625,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,2.25e-07,9e-07,0.2249999999999999,0.8999999999999999,0.5625,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,3.75e-07,2.025e-06,0.375,2.025,1.2,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,7.6e-07,3.2e-06,0.76,3.1999999999999997,1.9800000000000002,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,2.1e-07,4.55e-07,0.21,0.45499999999999996,0.3325,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,7e-08,4.9e-07,0.07,0.49,0.27999999999999997,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B Instruct,4.5e-07,1.7e-06,0.44999999999999996,1.7,1.0750000000000002,0.5,0.5
-2026-06-28,DigitalOcean,DigitalOcean,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,3.85e-07,2.45e-06,0.385,2.4499999999999997,1.4175,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,7.6e-07,3.2e-06,0.76,3.2,1.98,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,2.1e-07,4.55e-07,0.21,0.4549999999999999,0.3325,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,7e-08,4.9e-07,0.07,0.49,0.2799999999999999,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B Instruct,4.5e-07,1.7e-06,0.4499999999999999,1.7,1.0750000000000002,0.5,0.5
+2026-06-28,DigitalOcean,DigitalOcean,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,3.85e-07,2.45e-06,0.385,2.45,1.4175,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,xiaomi/mimo-v2.5,Xiaomi: MiMo-V2.5,MiMo-V2.5,1.05e-07,2.8e-07,0.105,0.28,0.1925,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,6e-07,3e-06,0.6,3.0,1.8,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,z-ai/glm-5,Z.ai: GLM 5,GLM 5,7.5e-07,2.4e-06,0.75,2.4,1.575,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.3e-06,4.3e-06,1.3,4.300000000000001,2.8000000000000003,0.5,0.5
 2026-06-28,DigitalOcean,DigitalOcean,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
-2026-06-28,Nebius,Nebius,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
-2026-06-28,Nebius,Nebius,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
+2026-06-28,Nebius,Nebius,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1e-07,3e-07,0.0999999999999999,0.3,0.1999999999999999,0.5,0.5
+2026-06-28,Nebius,Nebius,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.3e-07,4e-07,0.13,0.3999999999999999,0.265,0.5,0.5
 2026-06-28,Nebius,Nebius,nousresearch/hermes-4-405b,Nous: Hermes 4 405B,Hermes 4 405B,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
-2026-06-28,Nebius,Nebius,nousresearch/hermes-4-70b,Nous: Hermes 4 70B,Hermes 4 70B,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
+2026-06-28,Nebius,Nebius,nousresearch/hermes-4-70b,Nous: Hermes 4 70B,Hermes 4 70B,1.3e-07,4e-07,0.13,0.3999999999999999,0.265,0.5,0.5
 2026-06-28,Nebius,Nebius,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,6e-08,2.4e-07,0.06,0.24,0.15,0.5,0.5
 2026-06-28,Nebius,Nebius,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,3e-07,9e-07,0.3,0.8999999999999999,0.6,0.5,0.5
 2026-06-28,Nebius,Nebius,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
 2026-06-28,Nebius,Nebius,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
-2026-06-28,Nebius,Nebius,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
-2026-06-28,Nebius,Nebius,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-28,Nebius,Nebius,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.0999999999999999,0.3,0.1999999999999999,0.5,0.5
+2026-06-28,Nebius,Nebius,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,1e-07,3e-07,0.0999999999999999,0.3,0.1999999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,baidu/ernie-4.5-vl-424b-a47b,Baidu: ERNIE 4.5 VL 424B A47B ,ERNIE 4.5 VL 424B A47B,4.2e-07,1.25e-06,0.42,1.25,0.8350000000000001,0.5,0.5
-2026-06-28,NovitaAI,Novita,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek V3,4e-07,1.3e-06,0.39999999999999997,1.3,0.85,0.5,0.5
+2026-06-28,NovitaAI,Novita,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek V3,4e-07,1.3e-06,0.3999999999999999,1.3,0.85,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek V3 0324,2.7e-07,1.12e-06,0.27,1.12,0.6950000000000001,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,2.7e-07,1e-06,0.27,1.0,0.635,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-r1,DeepSeek: R1,R1,7e-07,2.5e-06,0.7,2.5,1.6,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-r1-0528,DeepSeek: R1 0528,R1 0528,7e-07,2.5e-06,0.7,2.5,1.6,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-r1-distill-llama-70b,DeepSeek: R1 Distill Llama 70B,R1 Distill Llama 70B,8e-07,8e-07,0.7999999999999999,0.7999999999999999,0.7999999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-v3.1-terminus,DeepSeek: DeepSeek V3.1 Terminus,DeepSeek V3.1 Terminus,2.7e-07,1e-06,0.27,1.0,0.635,0.5,0.5
-2026-06-28,NovitaAI,Novita,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,2.69e-07,4e-07,0.26899999999999996,0.39999999999999997,0.33449999999999996,0.5,0.5
+2026-06-28,NovitaAI,Novita,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,2.69e-07,4e-07,0.2689999999999999,0.3999999999999999,0.3344999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-v3.2-exp,DeepSeek: DeepSeek V3.2 Exp,DeepSeek V3.2 Exp,2.7e-07,4.1e-07,0.27,0.41,0.34,0.5,0.5
 2026-06-28,NovitaAI,Novita,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.4e-07,2.8e-07,0.14,0.28,0.21,0.5,0.5
-2026-06-28,NovitaAI,Novita,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.6e-06,3.2e-06,1.5999999999999999,3.1999999999999997,2.4,0.5,0.5
-2026-06-28,NovitaAI,Novita,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1.19e-07,2e-07,0.119,0.19999999999999998,0.1595,0.5,0.5
-2026-06-28,NovitaAI,Novita,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
-2026-06-28,NovitaAI,Novita,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.4e-07,4e-07,0.14,0.39999999999999997,0.27,0.5,0.5
-2026-06-28,NovitaAI,Novita,inclusionai/ling-2.6-1t,inclusionAI: Ling-2.6-1T,Ling-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35000000000000003,0.5,0.5
+2026-06-28,NovitaAI,Novita,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.6e-06,3.2e-06,1.6,3.2,2.4,0.5,0.5
+2026-06-28,NovitaAI,Novita,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1.19e-07,2e-07,0.119,0.1999999999999999,0.1595,0.5,0.5
+2026-06-28,NovitaAI,Novita,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,1.3e-07,4e-07,0.13,0.3999999999999999,0.265,0.5,0.5
+2026-06-28,NovitaAI,Novita,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.4e-07,4e-07,0.14,0.3999999999999999,0.27,0.5,0.5
+2026-06-28,NovitaAI,Novita,inclusionai/ling-2.6-1t,inclusionAI: Ling-2.6-1T,Ling-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35,0.5,0.5
 2026-06-28,NovitaAI,Novita,inclusionai/ling-2.6-flash,inclusionAI: Ling-2.6-flash,Ling-2.6-flash,1e-08,3e-08,0.01,0.03,0.02,0.5,0.5
-2026-06-28,NovitaAI,Novita,inclusionai/ring-2.6-1t,inclusionAI: Ring-2.6-1T,Ring-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35000000000000003,0.5,0.5
-2026-06-28,NovitaAI,Novita,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.049999999999999996,0.034999999999999996,0.5,0.5
-2026-06-28,NovitaAI,Novita,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.35e-07,4e-07,0.135,0.39999999999999997,0.26749999999999996,0.5,0.5
+2026-06-28,NovitaAI,Novita,inclusionai/ring-2.6-1t,inclusionAI: Ring-2.6-1T,Ring-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35,0.5,0.5
+2026-06-28,NovitaAI,Novita,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.0499999999999999,0.0349999999999999,0.5,0.5
+2026-06-28,NovitaAI,Novita,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.35e-07,4e-07,0.135,0.3999999999999999,0.2674999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,2.7e-07,8.5e-07,0.27,0.85,0.56,0.5,0.5
-2026-06-28,NovitaAI,Novita,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1.8e-07,5.9e-07,0.18,0.59,0.38499999999999995,0.5,0.5
+2026-06-28,NovitaAI,Novita,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1.8e-07,5.9e-07,0.18,0.59,0.3849999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,microsoft/wizardlm-2-8x22b,WizardLM-2 8x22B,WizardLM-2 8x22B,6.2e-07,6.2e-07,0.62,0.62,0.62,0.5,0.5
 2026-06-28,NovitaAI,Novita,minimax/minimax-m1,MiniMax: MiniMax M1,MiniMax M1,5.5e-07,2.2e-06,0.55,2.2,1.375,0.5,0.5
 2026-06-28,NovitaAI,Novita,minimax/minimax-m2,MiniMax: MiniMax M2,MiniMax M2,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
@@ -2388,87 +2388,293 @@ snapshot_date,provider,raw_provider_name,model_id,model_name,model_label,prompt_
 2026-06-28,NovitaAI,Novita,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
 2026-06-28,NovitaAI,Novita,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,2.7e-07,1.08e-06,0.27,1.08,0.675,0.5,0.5
 2026-06-28,NovitaAI,Novita,minimax/minimax-m3,MiniMax: MiniMax M3,MiniMax M3,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
-2026-06-28,NovitaAI,Novita,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,4e-08,1.7e-07,0.04,0.16999999999999998,0.105,0.5,0.5
+2026-06-28,NovitaAI,Novita,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,4e-08,1.7e-07,0.04,0.1699999999999999,0.105,0.5,0.5
 2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2,MoonshotAI: Kimi K2 0711,Kimi K2 0711,5.7e-07,2.3e-06,0.5700000000000001,2.3,1.435,0.5,0.5
 2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2-0905,MoonshotAI: Kimi K2 0905,Kimi K2 0905,6e-07,2.5e-06,0.6,2.5,1.55,0.5,0.5
 2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2-thinking,MoonshotAI: Kimi K2 Thinking,Kimi K2 Thinking,6e-07,2.5e-06,0.6,2.5,1.55,0.5,0.5
-2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,5.7e-07,2.85e-06,0.5700000000000001,2.8499999999999996,1.71,0.5,0.5
+2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,5.7e-07,2.85e-06,0.5700000000000001,2.85,1.71,0.5,0.5
 2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,8e-07,3.4e-06,0.7999999999999999,3.4,2.1,0.5,0.5
 2026-06-28,NovitaAI,Novita,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,9.5e-07,4e-06,0.95,4.0,2.475,0.5,0.5
-2026-06-28,NovitaAI,Novita,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
-2026-06-28,NovitaAI,Novita,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,5e-08,2.5e-07,0.049999999999999996,0.25,0.15,0.5,0.5
-2026-06-28,NovitaAI,Novita,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,4e-08,1.5e-07,0.04,0.15,0.09499999999999999,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.8e-07,4e-07,0.38,0.39999999999999997,0.38999999999999996,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,5.8e-07,0.09,0.58,0.33499999999999996,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,3e-07,3e-06,0.3,3.0,1.6500000000000001,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,3.8e-07,1.55e-06,0.38,1.55,0.9650000000000001,0.5,0.5
+2026-06-28,NovitaAI,Novita,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.0499999999999999,0.1999999999999999,0.125,0.5,0.5
+2026-06-28,NovitaAI,Novita,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,5e-08,2.5e-07,0.0499999999999999,0.25,0.15,0.5,0.5
+2026-06-28,NovitaAI,Novita,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,4e-08,1.5e-07,0.04,0.15,0.0949999999999999,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.8e-07,4e-07,0.38,0.3999999999999999,0.3899999999999999,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,5.8e-07,0.09,0.58,0.3349999999999999,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,3e-07,3e-06,0.3,3.0,1.65,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,3.8e-07,1.55e-06,0.38,1.55,0.965,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B Instruct,7e-08,2.7e-07,0.07,0.27,0.17,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-coder-next,Qwen: Qwen3 Coder Next,Qwen3 Coder Next,2e-07,1.5e-06,0.19999999999999998,1.5,0.85,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-coder-next,Qwen: Qwen3 Coder Next,Qwen3 Coder Next,2e-07,1.5e-06,0.1999999999999999,1.5,0.85,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-next-80b-a3b-instruct,Qwen: Qwen3 Next 80B A3B Instruct,Qwen3 Next 80B A3B Instruct,1.5e-07,1.5e-06,0.15,1.5,0.8250000000000001,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-next-80b-a3b-thinking,Qwen: Qwen3 Next 80B A3B Thinking,Qwen3 Next 80B A3B Thinking,1.5e-07,1.5e-06,0.15,1.5,0.8250000000000001,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B Instruct,3e-07,1.5e-06,0.3,1.5,0.9,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-235b-a22b-thinking,Qwen: Qwen3 VL 235B A22B Thinking,Qwen3 VL 235B A22B Thinking,9.8e-07,3.95e-06,0.98,3.95,2.4650000000000003,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B Instruct,2e-07,7e-07,0.19999999999999998,0.7,0.44999999999999996,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-thinking,Qwen: Qwen3 VL 30B A3B Thinking,Qwen3 VL 30B A3B Thinking,2e-07,1e-06,0.19999999999999998,1.0,0.6,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B Instruct,2e-07,7e-07,0.1999999999999999,0.7,0.4499999999999999,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-thinking,Qwen: Qwen3 VL 30B A3B Thinking,Qwen3 VL 30B A3B Thinking,2e-07,1e-06,0.1999999999999999,1.0,0.6,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3-vl-8b-instruct,Qwen: Qwen3 VL 8B Instruct,Qwen3 VL 8B Instruct,8e-08,5e-07,0.08,0.5,0.29,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3.5-122b-a10b,Qwen: Qwen3.5-122B-A10B,Qwen3.5-122B-A10B,4e-07,3.2e-06,0.39999999999999997,3.1999999999999997,1.7999999999999998,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3.5-122b-a10b,Qwen: Qwen3.5-122B-A10B,Qwen3.5-122B-A10B,4e-07,3.2e-06,0.3999999999999999,3.2,1.7999999999999998,0.5,0.5
 2026-06-28,NovitaAI,Novita,qwen/qwen3.5-27b,Qwen: Qwen3.5-27B,Qwen3.5-27B,3e-07,2.4e-06,0.3,2.4,1.35,0.5,0.5
-2026-06-28,NovitaAI,Novita,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
-2026-06-28,NovitaAI,Novita,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,5e-08,5e-08,0.049999999999999996,0.049999999999999996,0.049999999999999996,0.5,0.5
+2026-06-28,NovitaAI,Novita,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.6,2.1,0.5,0.5
+2026-06-28,NovitaAI,Novita,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,5e-08,5e-08,0.0499999999999999,0.0499999999999999,0.0499999999999999,0.5,0.5
 2026-06-28,NovitaAI,Novita,sao10k/l3.1-euryale-70b,Sao10K: Llama 3.1 Euryale 70B v2.2,Llama 3.1 Euryale 70B v2.2,1.48e-06,1.48e-06,1.48,1.48,1.48,0.5,0.5
-2026-06-28,NovitaAI,Novita,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.19999999999999998,1.15,0.675,0.5,0.5
+2026-06-28,NovitaAI,Novita,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.1999999999999999,1.15,0.675,0.5,0.5
 2026-06-28,NovitaAI,Novita,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,5.22e-07,1.044e-06,0.522,1.044,0.783,0.5,0.5
 2026-06-28,NovitaAI,Novita,z-ai/glm-4.5-air,Z.ai: GLM 4.5 Air,GLM 4.5 Air,1.3e-07,8.5e-07,0.13,0.85,0.49,0.5,0.5
 2026-06-28,NovitaAI,Novita,z-ai/glm-4.5v,Z.ai: GLM 4.5V,GLM 4.5V,6e-07,1.8e-06,0.6,1.7999999999999998,1.2,0.5,0.5
 2026-06-28,NovitaAI,Novita,z-ai/glm-4.6,Z.ai: GLM 4.6,GLM 4.6,5.5e-07,2.2e-06,0.55,2.2,1.375,0.5,0.5
 2026-06-28,NovitaAI,Novita,z-ai/glm-4.6v,Z.ai: GLM 4.6V,GLM 4.6V,3e-07,9e-07,0.3,0.8999999999999999,0.6,0.5,0.5
-2026-06-28,NovitaAI,Novita,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,5.4e-07,1.98e-06,0.54,1.9800000000000002,1.26,0.5,0.5
-2026-06-28,NovitaAI,Novita,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,7e-08,4e-07,0.07,0.39999999999999997,0.235,0.5,0.5
-2026-06-28,NovitaAI,Novita,z-ai/glm-5,Z.ai: GLM 5,GLM 5,1e-06,3.2e-06,1.0,3.1999999999999997,2.0999999999999996,0.5,0.5
+2026-06-28,NovitaAI,Novita,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,5.4e-07,1.98e-06,0.54,1.98,1.26,0.5,0.5
+2026-06-28,NovitaAI,Novita,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,7e-08,4e-07,0.07,0.3999999999999999,0.235,0.5,0.5
+2026-06-28,NovitaAI,Novita,z-ai/glm-5,Z.ai: GLM 5,GLM 5,1e-06,3.2e-06,1.0,3.2,2.1,0.5,0.5
 2026-06-28,NovitaAI,Novita,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.38e-06,4.4e-06,1.38,4.4,2.89,0.5,0.5
-2026-06-28,NovitaAI,Novita,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.26e-06,3.96e-06,1.26,3.9600000000000004,2.61,0.5,0.5
+2026-06-28,NovitaAI,Novita,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.26e-06,3.96e-06,1.26,3.96,2.61,0.5,0.5
 2026-06-28,Together,Together,arcee-ai/coder-large,Arcee AI: Coder Large,Coder Large,5e-07,8e-07,0.5,0.7999999999999999,0.6499999999999999,0.5,0.5
 2026-06-28,Together,Together,arcee-ai/virtuoso-large,Arcee AI: Virtuoso Large,Virtuoso Large,7.5e-07,1.2e-06,0.75,1.2,0.975,0.5,0.5
 2026-06-28,Together,Together,deepcogito/cogito-v2.1-671b,Deep Cogito: Cogito v2.1 671B,Cogito v2.1 671B,1.25e-06,1.25e-06,1.25,1.25,1.25,0.5,0.5
 2026-06-28,Together,Together,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.74e-06,3.48e-06,1.74,3.48,2.61,0.5,0.5
-2026-06-28,Together,Together,google/gemma-3n-e4b-it,Google: Gemma 3n 4B,Gemma 3n 4B,6e-08,1.2e-07,0.06,0.12,0.08999999999999998,0.5,0.5
+2026-06-28,Together,Together,google/gemma-3n-e4b-it,Google: Gemma 3n 4B,Gemma 3n 4B,6e-08,1.2e-07,0.06,0.12,0.0899999999999999,0.5,0.5
 2026-06-28,Together,Together,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,2.8e-07,8.6e-07,0.28,0.86,0.5700000000000001,0.5,0.5
-2026-06-28,Together,Together,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,3.9e-07,9.7e-07,0.39,0.9700000000000001,0.68,0.5,0.5
+2026-06-28,Together,Together,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,3.9e-07,9.7e-07,0.39,0.97,0.68,0.5,0.5
 2026-06-28,Together,Together,liquid/lfm-2-24b-a2b,LiquidAI: LFM2-24B-A2B,LFM2-24B-A2B,3e-08,1.2e-07,0.03,0.12,0.075,0.5,0.5
 2026-06-28,Together,Together,meta-llama/llama-3-8b-instruct,Meta: Llama 3 8B Instruct,Llama 3 8B Instruct,1.4e-07,1.4e-07,0.14,0.14,0.14,0.5,0.5
 2026-06-28,Together,Together,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.04e-06,1.04e-06,1.04,1.04,1.04,0.5,0.5
-2026-06-28,Together,Together,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama Guard 4 12B,2e-07,2e-07,0.19999999999999998,0.19999999999999998,0.19999999999999998,0.5,0.5
+2026-06-28,Together,Together,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama Guard 4 12B,2e-07,2e-07,0.1999999999999999,0.1999999999999999,0.1999999999999999,0.5,0.5
 2026-06-28,Together,Together,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
 2026-06-28,Together,Together,minimax/minimax-m3,MiniMax: MiniMax M3,MiniMax M3,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
-2026-06-28,Together,Together,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,1.2e-06,4.5e-06,1.2,4.5,2.8499999999999996,0.5,0.5
+2026-06-28,Together,Together,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,1.2e-06,4.5e-06,1.2,4.5,2.85,0.5,0.5
 2026-06-28,Together,Together,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,9.5e-07,4e-06,0.95,4.0,2.475,0.5,0.5
-2026-06-28,Together,Together,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-28,Together,Together,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,6e-07,3.6e-06,0.6,3.6,2.1,0.5,0.5
 2026-06-28,Together,Together,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
-2026-06-28,Together,Together,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
+2026-06-28,Together,Together,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,5e-08,2e-07,0.0499999999999999,0.1999999999999999,0.125,0.5,0.5
 2026-06-28,Together,Together,qwen/qwen-2.5-7b-instruct,Qwen: Qwen2.5 7B Instruct,Qwen2.5 7B Instruct,3e-07,3e-07,0.3,0.3,0.3,0.5,0.5
-2026-06-28,Together,Together,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,2e-07,6e-07,0.19999999999999998,0.6,0.39999999999999997,0.5,0.5
-2026-06-28,Together,Together,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
-2026-06-28,Together,Together,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1.7e-07,2.5e-07,0.16999999999999998,0.25,0.21,0.5,0.5
+2026-06-28,Together,Together,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,2e-07,6e-07,0.1999999999999999,0.6,0.3999999999999999,0.5,0.5
+2026-06-28,Together,Together,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.6,2.1,0.5,0.5
+2026-06-28,Together,Together,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1.7e-07,2.5e-07,0.1699999999999999,0.25,0.21,0.5,0.5
 2026-06-28,Together,Together,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
 2026-06-28,Together,Together,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,5.5e-07,1.65e-06,0.55,1.6500000000000001,1.1,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,5.5e-07,1.65e-06,0.55,1.65,1.1,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.4e-07,2.8e-07,0.14,0.28,0.21,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.74e-06,3.48e-06,1.74,3.48,2.61,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.2e-07,3.5e-07,0.12,0.35,0.235,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,ibm-granite/granite-4.1-8b,IBM: Granite 4.1 8B,Granite 4.1 8B,5e-08,1e-07,0.049999999999999996,0.09999999999999999,0.075,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,ibm-granite/granite-4.1-8b,IBM: Granite 4.1 8B,Granite 4.1 8B,5e-08,1e-07,0.0499999999999999,0.0999999999999999,0.075,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,Llama 3.1 70B Instruct,8e-07,8e-07,0.7999999999999999,0.7999999999999999,0.7999999999999999,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2.2e-07,2.2e-07,0.22,0.22,0.22,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,7.1e-07,7.1e-07,0.71,0.71,0.71,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,microsoft/phi-4-mini-instruct,Microsoft: Phi 4 Mini Instruct,Phi 4 Mini Instruct,8e-08,3.5e-07,0.08,0.35,0.215,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,9.5e-07,4e-06,0.95,4.0,2.475,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,4e-08,1.4e-07,0.04,0.14,0.09000000000000001,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,4e-08,1.4e-07,0.04,0.14,0.09,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,3e-08,1.3e-07,0.03,0.13,0.08,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,1e-07,1e-07,0.09999999999999999,0.09999999999999999,0.09999999999999999,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,1e-07,1e-07,0.09999999999999999,0.09999999999999999,0.09999999999999999,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,1e-07,1e-07,0.0999999999999999,0.0999999999999999,0.0999999999999999,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,1e-07,1e-07,0.0999999999999999,0.0999999999999999,0.0999999999999999,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.0999999999999999,0.3,0.1999999999999999,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,1e-06,1.5e-06,1.0,1.5,1.25,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3.5-35b-a3b,Qwen: Qwen3.5-35B-A3B,Qwen3.5-35B-A3B,2.5e-07,1.25e-06,0.25,1.25,0.75,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,6e-07,3.6e-06,0.6,3.6,2.1,0.5,0.5
 2026-06-28,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-35b-a3b,Qwen: Qwen3.6 35B A3B,Qwen3.6 35B A3B,2.5e-07,1.25e-06,0.25,1.25,0.75,0.5,0.5
-2026-06-28,Weights & Biases / CoreWeave,WandB,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.39e-06,4.4e-06,1.3900000000000001,4.4,2.895,0.5,0.5
+2026-06-28,Weights & Biases / CoreWeave,WandB,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.39e-06,4.4e-06,1.39,4.4,2.895,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek V3,3.2e-07,8.9e-07,0.32,0.8899999999999999,0.6049999999999999,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek V3 0324,2e-07,7.7e-07,0.19999999999999998,0.77,0.48500000000000004,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,2.1e-07,7.9e-07,0.21,0.7899999999999999,0.5,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-r1-0528,DeepSeek: R1 0528,R1 0528,5e-07,2.15e-06,0.5,2.1500000000000004,1.325,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-v3.1-terminus,DeepSeek: DeepSeek V3.1 Terminus,DeepSeek V3.1 Terminus,2.7e-07,9.5e-07,0.27,0.95,0.61,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,2.6e-07,3.8e-07,0.26,0.38,0.32,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1e-07,2e-07,0.09999999999999999,0.19999999999999998,0.15,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.3e-06,2.6e-06,1.3,2.6,1.95,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-3-12b-it,Google: Gemma 3 12B,Gemma 3 12B,5e-08,1.5e-07,0.049999999999999996,0.15,0.09999999999999999,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,8e-08,1.6e-07,0.08,0.16,0.12000000000000001,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-3-4b-it,Google: Gemma 3 4B,Gemma 3 4B,5e-08,1e-07,0.049999999999999996,0.09999999999999999,0.075,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,7e-08,3.4e-07,0.07,0.33999999999999997,0.205,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.2e-07,3.7e-07,0.12,0.37,0.245,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.3e-07,3.8e-07,0.13,0.38,0.255,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,gryphe/mythomax-l2-13b,MythoMax 13B,MythoMax 13B,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,Llama 3.1 70B Instruct,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,3e-08,0.02,0.03,0.024999999999999998,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.049999999999999996,0.034999999999999996,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-3.2-11b-vision-instruct,Meta: Llama 3.2 11B Vision Instruct,Llama 3.2 11B Vision Instruct,3.45e-07,3.45e-07,0.345,0.345,0.345,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1e-07,3.2e-07,0.09999999999999999,0.32,0.21,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama Guard 4 12B,1.8e-07,1.8e-07,0.18,0.18,0.18,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,microsoft/phi-4,Microsoft: Phi 4,Phi 4,7e-08,1.4e-07,0.07,0.14,0.105,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,1.5e-07,1.15e-06,0.15,1.15,0.65,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,2.5e-07,1e-06,0.25,1.0,0.625,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,4.5e-07,2.1e-06,0.44999999999999996,2.0999999999999996,1.275,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,2e-08,4e-08,0.02,0.04,0.030000000000000002,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,mistralai/mistral-small-24b-instruct-2501,Mistral: Mistral Small 3,Mistral Small 3,5e-08,8e-08,0.049999999999999996,0.08,0.065,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,mistralai/mistral-small-3.2-24b-instruct,Mistral: Mistral Small 3.2 24B,Mistral Small 3.2 24B,7.5e-08,2e-07,0.075,0.19999999999999998,0.1375,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,4.5e-07,2.25e-06,0.44999999999999996,2.25,1.35,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,7.5e-07,3.5e-06,0.75,3.5,2.125,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,7.4e-07,3.5e-06,0.74,3.5,2.12,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nousresearch/hermes-3-llama-3.1-405b,Nous: Hermes 3 405B Instruct,Hermes 3 405B Instruct,1e-06,1e-06,1.0,1.0,1.0,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nousresearch/hermes-3-llama-3.1-70b,Nous: Hermes 3 70B Instruct,Hermes 3 70B Instruct,7e-07,7e-07,0.7,0.7,0.7,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nvidia/llama-3.3-nemotron-super-49b-v1.5,NVIDIA: Llama 3.3 Nemotron Super 49B V1.5,Llama 3.3 Nemotron Super 49B V1.5,4e-07,4e-07,0.39999999999999997,0.39999999999999997,0.39999999999999997,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,8.5e-08,4e-07,0.08499999999999999,0.39999999999999997,0.24250000000000002,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,5e-07,2.2e-06,0.5,2.2,1.35,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,3.9e-08,1.9e-07,0.039,0.19,0.1145,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,3e-08,1.4e-07,0.03,0.14,0.085,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.6e-07,4e-07,0.36,0.39999999999999997,0.37999999999999995,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-14b,Qwen: Qwen3 14B,Qwen3 14B,1.2e-07,2.4e-07,0.12,0.24,0.17999999999999997,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,1e-07,0.09,0.09999999999999999,0.09499999999999999,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,2.3e-07,2.3e-06,0.22999999999999998,2.3,1.265,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-30b-a3b,Qwen: Qwen3 30B A3B,Qwen3 30B A3B,1.2e-07,5e-07,0.12,0.5,0.31,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,8e-08,2.8e-07,0.08,0.28,0.18000000000000002,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,3e-07,1e-06,0.3,1.0,0.6499999999999999,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-next-80b-a3b-instruct,Qwen: Qwen3 Next 80B A3B Instruct,Qwen3 Next 80B A3B Instruct,9e-08,1.1e-06,0.09,1.1,0.595,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B Instruct,2e-07,8.8e-07,0.19999999999999998,0.88,0.54,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B Instruct,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3.5-27b,Qwen: Qwen3.5-27B,Qwen3.5-27B,2.6e-07,2.6e-06,0.26,2.6,1.4300000000000002,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3.5-35b-a3b,Qwen: Qwen3.5-35B-A3B,Qwen3.5-35B-A3B,1.4e-07,1e-06,0.14,1.0,0.57,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,4.5e-07,3e-06,0.44999999999999996,3.0,1.725,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1e-07,1.5e-07,0.09999999999999999,0.15,0.125,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,3.2e-07,3.2e-06,0.32,3.1999999999999997,1.7599999999999998,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,4e-08,5e-08,0.04,0.049999999999999996,0.045,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,sao10k/l3.1-euryale-70b,Sao10K: Llama 3.1 Euryale 70B v2.2,Llama 3.1 Euryale 70B v2.2,8.5e-07,8.5e-07,0.85,0.85,0.85,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.19999999999999998,1.15,0.675,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-4.6,Z.ai: GLM 4.6,GLM 4.6,4.3e-07,1.74e-06,0.43,1.74,1.085,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,4e-07,1.75e-06,0.39999999999999997,1.75,1.075,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,6e-08,4e-07,0.06,0.39999999999999997,0.22999999999999998,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-5,Z.ai: GLM 5,GLM 5,6e-07,2.08e-06,0.6,2.08,1.3399999999999999,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.05e-06,3.5e-06,1.0499999999999998,3.5,2.275,0.5,0.5
+2026-06-29,DeepInfra,DeepInfra,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,9.5e-07,3e-06,0.95,3.0,1.975,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,4.25e-07,1.36e-06,0.425,1.3599999999999999,0.8925,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.12e-07,2.24e-07,0.112,0.224,0.16799999999999998,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.392e-06,2.784e-06,1.392,2.784,2.088,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,2.5e-07,8.7e-07,0.25,0.87,0.56,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,2.25e-07,9e-07,0.22499999999999998,0.8999999999999999,0.5625,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,3.75e-07,2.025e-06,0.375,2.025,1.2,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,7.6e-07,3.2e-06,0.76,3.1999999999999997,1.9800000000000002,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,2.1e-07,4.55e-07,0.21,0.45499999999999996,0.3325,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,7e-08,4.9e-07,0.07,0.49,0.27999999999999997,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B Instruct,4.5e-07,1.7e-06,0.44999999999999996,1.7,1.0750000000000002,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,3.85e-07,2.45e-06,0.385,2.4499999999999997,1.4175,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,xiaomi/mimo-v2.5,Xiaomi: MiMo-V2.5,MiMo-V2.5,1.05e-07,2.8e-07,0.105,0.28,0.1925,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,6e-07,3e-06,0.6,3.0,1.8,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,z-ai/glm-5,Z.ai: GLM 5,GLM 5,7.5e-07,2.4e-06,0.75,2.4,1.575,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.3e-06,4.3e-06,1.3,4.300000000000001,2.8000000000000003,0.5,0.5
+2026-06-29,DigitalOcean,DigitalOcean,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
+2026-06-29,Nebius,Nebius,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-29,Nebius,Nebius,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
+2026-06-29,Nebius,Nebius,nousresearch/hermes-4-405b,Nous: Hermes 4 405B,Hermes 4 405B,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
+2026-06-29,Nebius,Nebius,nousresearch/hermes-4-70b,Nous: Hermes 4 70B,Hermes 4 70B,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
+2026-06-29,Nebius,Nebius,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,6e-08,2.4e-07,0.06,0.24,0.15,0.5,0.5
+2026-06-29,Nebius,Nebius,nvidia/nemotron-3-super-120b-a12b,NVIDIA: Nemotron 3 Super,Nemotron 3 Super,3e-07,9e-07,0.3,0.8999999999999999,0.6,0.5,0.5
+2026-06-29,Nebius,Nebius,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,1e-06,3e-06,1.0,3.0,2.0,0.5,0.5
+2026-06-29,Nebius,Nebius,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
+2026-06-29,Nebius,Nebius,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-29,Nebius,Nebius,qwen/qwen3-32b,Qwen: Qwen3 32B,Qwen3 32B,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-29,NovitaAI,Novita,baidu/ernie-4.5-vl-424b-a47b,Baidu: ERNIE 4.5 VL 424B A47B ,ERNIE 4.5 VL 424B A47B,4.2e-07,1.25e-06,0.42,1.25,0.8350000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek V3,4e-07,1.3e-06,0.39999999999999997,1.3,0.85,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek V3 0324,2.7e-07,1.12e-06,0.27,1.12,0.6950000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,2.7e-07,1e-06,0.27,1.0,0.635,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-r1,DeepSeek: R1,R1,7e-07,2.5e-06,0.7,2.5,1.6,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-r1-0528,DeepSeek: R1 0528,R1 0528,7e-07,2.5e-06,0.7,2.5,1.6,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-r1-distill-llama-70b,DeepSeek: R1 Distill Llama 70B,R1 Distill Llama 70B,8e-07,8e-07,0.7999999999999999,0.7999999999999999,0.7999999999999999,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-v3.1-terminus,DeepSeek: DeepSeek V3.1 Terminus,DeepSeek V3.1 Terminus,2.7e-07,1e-06,0.27,1.0,0.635,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,DeepSeek V3.2,2.69e-07,4e-07,0.26899999999999996,0.39999999999999997,0.33449999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-v3.2-exp,DeepSeek: DeepSeek V3.2 Exp,DeepSeek V3.2 Exp,2.7e-07,4.1e-07,0.27,0.41,0.34,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.4e-07,2.8e-07,0.14,0.28,0.21,0.5,0.5
+2026-06-29,NovitaAI,Novita,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.6e-06,3.2e-06,1.5999999999999999,3.1999999999999997,2.4,0.5,0.5
+2026-06-29,NovitaAI,Novita,google/gemma-3-27b-it,Google: Gemma 3 27B,Gemma 3 27B,1.19e-07,2e-07,0.119,0.19999999999999998,0.1595,0.5,0.5
+2026-06-29,NovitaAI,Novita,google/gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemma 4 26B A4B,1.3e-07,4e-07,0.13,0.39999999999999997,0.265,0.5,0.5
+2026-06-29,NovitaAI,Novita,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.4e-07,4e-07,0.14,0.39999999999999997,0.27,0.5,0.5
+2026-06-29,NovitaAI,Novita,inclusionai/ling-2.6-1t,inclusionAI: Ling-2.6-1T,Ling-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35000000000000003,0.5,0.5
+2026-06-29,NovitaAI,Novita,inclusionai/ling-2.6-flash,inclusionAI: Ling-2.6-flash,Ling-2.6-flash,1e-08,3e-08,0.01,0.03,0.02,0.5,0.5
+2026-06-29,NovitaAI,Novita,inclusionai/ring-2.6-1t,inclusionAI: Ring-2.6-1T,Ring-2.6-1T,7.5e-08,6.25e-07,0.075,0.625,0.35000000000000003,0.5,0.5
+2026-06-29,NovitaAI,Novita,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2e-08,5e-08,0.02,0.049999999999999996,0.034999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.35e-07,4e-07,0.135,0.39999999999999997,0.26749999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,Llama 4 Maverick,2.7e-07,8.5e-07,0.27,0.85,0.56,0.5,0.5
+2026-06-29,NovitaAI,Novita,meta-llama/llama-4-scout,Meta: Llama 4 Scout,Llama 4 Scout,1.8e-07,5.9e-07,0.18,0.59,0.38499999999999995,0.5,0.5
+2026-06-29,NovitaAI,Novita,microsoft/wizardlm-2-8x22b,WizardLM-2 8x22B,WizardLM-2 8x22B,6.2e-07,6.2e-07,0.62,0.62,0.62,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m1,MiniMax: MiniMax M1,MiniMax M1,5.5e-07,2.2e-06,0.55,2.2,1.375,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m2,MiniMax: MiniMax M2,MiniMax M2,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m2.1,MiniMax: MiniMax M2.1,MiniMax M2.1,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,2.7e-07,1.08e-06,0.27,1.08,0.675,0.5,0.5
+2026-06-29,NovitaAI,Novita,minimax/minimax-m3,MiniMax: MiniMax M3,MiniMax M3,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,NovitaAI,Novita,mistralai/mistral-nemo,Mistral: Mistral Nemo,Mistral Nemo,4e-08,1.7e-07,0.04,0.16999999999999998,0.105,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2,MoonshotAI: Kimi K2 0711,Kimi K2 0711,5.7e-07,2.3e-06,0.5700000000000001,2.3,1.435,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2-0905,MoonshotAI: Kimi K2 0905,Kimi K2 0905,6e-07,2.5e-06,0.6,2.5,1.55,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2-thinking,MoonshotAI: Kimi K2 Thinking,Kimi K2 Thinking,6e-07,2.5e-06,0.6,2.5,1.55,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2.5,MoonshotAI: Kimi K2.5,Kimi K2.5,5.7e-07,2.85e-06,0.5700000000000001,2.8499999999999996,1.71,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,8e-07,3.4e-06,0.7999999999999999,3.4,2.1,0.5,0.5
+2026-06-29,NovitaAI,Novita,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,9.31e-07,3.92e-06,0.9309999999999999,3.92,2.4255,0.5,0.5
+2026-06-29,NovitaAI,Novita,nvidia/nemotron-3-nano-30b-a3b,NVIDIA: Nemotron 3 Nano 30B A3B,Nemotron 3 Nano 30B A3B,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
+2026-06-29,NovitaAI,Novita,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,5e-08,2.5e-07,0.049999999999999996,0.25,0.15,0.5,0.5
+2026-06-29,NovitaAI,Novita,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,4e-08,1.5e-07,0.04,0.15,0.09499999999999999,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,Qwen2.5 72B Instruct,3.8e-07,4e-07,0.38,0.39999999999999997,0.38999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,9e-08,5.8e-07,0.09,0.58,0.33499999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,3e-07,3e-06,0.3,3.0,1.6500000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,3.8e-07,1.55e-06,0.38,1.55,0.9650000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B Instruct,7e-08,2.7e-07,0.07,0.27,0.17,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-coder-next,Qwen: Qwen3 Coder Next,Qwen3 Coder Next,2e-07,1.5e-06,0.19999999999999998,1.5,0.85,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-next-80b-a3b-instruct,Qwen: Qwen3 Next 80B A3B Instruct,Qwen3 Next 80B A3B Instruct,1.5e-07,1.5e-06,0.15,1.5,0.8250000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-next-80b-a3b-thinking,Qwen: Qwen3 Next 80B A3B Thinking,Qwen3 Next 80B A3B Thinking,1.5e-07,1.5e-06,0.15,1.5,0.8250000000000001,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B Instruct,3e-07,1.5e-06,0.3,1.5,0.9,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-vl-235b-a22b-thinking,Qwen: Qwen3 VL 235B A22B Thinking,Qwen3 VL 235B A22B Thinking,9.8e-07,3.95e-06,0.98,3.95,2.4650000000000003,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B Instruct,2e-07,7e-07,0.19999999999999998,0.7,0.44999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-vl-30b-a3b-thinking,Qwen: Qwen3 VL 30B A3B Thinking,Qwen3 VL 30B A3B Thinking,2e-07,1e-06,0.19999999999999998,1.0,0.6,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3-vl-8b-instruct,Qwen: Qwen3 VL 8B Instruct,Qwen3 VL 8B Instruct,8e-08,5e-07,0.08,0.5,0.29,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3.5-122b-a10b,Qwen: Qwen3.5-122B-A10B,Qwen3.5-122B-A10B,4e-07,3.2e-06,0.39999999999999997,3.1999999999999997,1.7999999999999998,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3.5-27b,Qwen: Qwen3.5-27B,Qwen3.5-27B,3e-07,2.4e-06,0.3,2.4,1.35,0.5,0.5
+2026-06-29,NovitaAI,Novita,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,Llama 3 8B Lunaris,5e-08,5e-08,0.049999999999999996,0.049999999999999996,0.049999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,sao10k/l3.1-euryale-70b,Sao10K: Llama 3.1 Euryale 70B v2.2,Llama 3.1 Euryale 70B v2.2,1.48e-06,1.48e-06,1.48,1.48,1.48,0.5,0.5
+2026-06-29,NovitaAI,Novita,stepfun/step-3.7-flash,StepFun: Step 3.7 Flash,Step 3.7 Flash,2e-07,1.15e-06,0.19999999999999998,1.15,0.675,0.5,0.5
+2026-06-29,NovitaAI,Novita,xiaomi/mimo-v2.5-pro,Xiaomi: MiMo-V2.5-Pro,MiMo-V2.5-Pro,5.22e-07,1.044e-06,0.522,1.044,0.783,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.5-air,Z.ai: GLM 4.5 Air,GLM 4.5 Air,1.3e-07,8.5e-07,0.13,0.85,0.49,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.5v,Z.ai: GLM 4.5V,GLM 4.5V,6e-07,1.8e-06,0.6,1.7999999999999998,1.2,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.6,Z.ai: GLM 4.6,GLM 4.6,5.5e-07,2.2e-06,0.55,2.2,1.375,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.6v,Z.ai: GLM 4.6V,GLM 4.6V,3e-07,9e-07,0.3,0.8999999999999999,0.6,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.7,Z.ai: GLM 4.7,GLM 4.7,5.4e-07,1.98e-06,0.54,1.9800000000000002,1.26,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-4.7-flash,Z.ai: GLM 4.7 Flash,GLM 4.7 Flash,7e-08,4e-07,0.07,0.39999999999999997,0.235,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-5,Z.ai: GLM 5,GLM 5,1e-06,3.2e-06,1.0,3.1999999999999997,2.0999999999999996,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.38e-06,4.4e-06,1.38,4.4,2.89,0.5,0.5
+2026-06-29,NovitaAI,Novita,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.232e-06,3.872e-06,1.232,3.8720000000000003,2.5520000000000005,0.5,0.5
+2026-06-29,Together,Together,arcee-ai/coder-large,Arcee AI: Coder Large,Coder Large,5e-07,8e-07,0.5,0.7999999999999999,0.6499999999999999,0.5,0.5
+2026-06-29,Together,Together,arcee-ai/virtuoso-large,Arcee AI: Virtuoso Large,Virtuoso Large,7.5e-07,1.2e-06,0.75,1.2,0.975,0.5,0.5
+2026-06-29,Together,Together,deepcogito/cogito-v2.1-671b,Deep Cogito: Cogito v2.1 671B,Cogito v2.1 671B,1.25e-06,1.25e-06,1.25,1.25,1.25,0.5,0.5
+2026-06-29,Together,Together,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.74e-06,3.48e-06,1.74,3.48,2.61,0.5,0.5
+2026-06-29,Together,Together,google/gemma-3n-e4b-it,Google: Gemma 3n 4B,Gemma 3n 4B,6e-08,1.2e-07,0.06,0.12,0.08999999999999998,0.5,0.5
+2026-06-29,Together,Together,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,2.8e-07,8.6e-07,0.28,0.86,0.5700000000000001,0.5,0.5
+2026-06-29,Together,Together,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,3.9e-07,9.7e-07,0.39,0.9700000000000001,0.68,0.5,0.5
+2026-06-29,Together,Together,liquid/lfm-2-24b-a2b,LiquidAI: LFM2-24B-A2B,LFM2-24B-A2B,3e-08,1.2e-07,0.03,0.12,0.075,0.5,0.5
+2026-06-29,Together,Together,meta-llama/llama-3-8b-instruct,Meta: Llama 3 8B Instruct,Llama 3 8B Instruct,1.4e-07,1.4e-07,0.14,0.14,0.14,0.5,0.5
+2026-06-29,Together,Together,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,1.04e-06,1.04e-06,1.04,1.04,1.04,0.5,0.5
+2026-06-29,Together,Together,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama Guard 4 12B,2e-07,2e-07,0.19999999999999998,0.19999999999999998,0.19999999999999998,0.5,0.5
+2026-06-29,Together,Together,minimax/minimax-m2.7,MiniMax: MiniMax M2.7,MiniMax M2.7,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,Together,Together,minimax/minimax-m3,MiniMax: MiniMax M3,MiniMax M3,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,Together,Together,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,1.2e-06,4.5e-06,1.2,4.5,2.8499999999999996,0.5,0.5
+2026-06-29,Together,Together,moonshotai/kimi-k2.7-code,MoonshotAI: Kimi K2.7 Code,Kimi K2.7 Code,9.5e-07,4e-06,0.95,4.0,2.475,0.5,0.5
+2026-06-29,Together,Together,nvidia/nemotron-3-ultra-550b-a55b,NVIDIA: Nemotron 3 Ultra,Nemotron 3 Ultra,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-29,Together,Together,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,1.5e-07,6e-07,0.15,0.6,0.375,0.5,0.5
+2026-06-29,Together,Together,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,5e-08,2e-07,0.049999999999999996,0.19999999999999998,0.125,0.5,0.5
+2026-06-29,Together,Together,qwen/qwen-2.5-7b-instruct,Qwen: Qwen2.5 7B Instruct,Qwen2.5 7B Instruct,3e-07,3e-07,0.3,0.3,0.3,0.5,0.5
+2026-06-29,Together,Together,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,2e-07,6e-07,0.19999999999999998,0.6,0.39999999999999997,0.5,0.5
+2026-06-29,Together,Together,qwen/qwen3.5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen3.5 397B A17B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-29,Together,Together,qwen/qwen3.5-9b,Qwen: Qwen3.5-9B,Qwen3.5-9B,1.7e-07,2.5e-07,0.16999999999999998,0.25,0.21,0.5,0.5
+2026-06-29,Together,Together,z-ai/glm-5.1,Z.ai: GLM 5.1,GLM 5.1,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
+2026-06-29,Together,Together,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.4e-06,4.4e-06,1.4,4.4,2.9000000000000004,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,DeepSeek V3.1,5.5e-07,1.65e-06,0.55,1.6500000000000001,1.1,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash,DeepSeek V4 Flash,1.4e-07,2.8e-07,0.14,0.28,0.21,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,deepseek/deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro,DeepSeek V4 Pro,1.74e-06,3.48e-06,1.74,3.48,2.61,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,google/gemma-4-31b-it,Google: Gemma 4 31B,Gemma 4 31B,1.2e-07,3.5e-07,0.12,0.35,0.235,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,ibm-granite/granite-4.1-8b,IBM: Granite 4.1 8B,Granite 4.1 8B,5e-08,1e-07,0.049999999999999996,0.09999999999999999,0.075,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,Llama 3.1 70B Instruct,8e-07,8e-07,0.7999999999999999,0.7999999999999999,0.7999999999999999,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,Llama 3.1 8B Instruct,2.2e-07,2.2e-07,0.22,0.22,0.22,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama 3.3 70B Instruct,7.1e-07,7.1e-07,0.71,0.71,0.71,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,microsoft/phi-4-mini-instruct,Microsoft: Phi 4 Mini Instruct,Phi 4 Mini Instruct,8e-08,3.5e-07,0.08,0.35,0.215,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,minimax/minimax-m2.5,MiniMax: MiniMax M2.5,MiniMax M2.5,3e-07,1.2e-06,0.3,1.2,0.75,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,moonshotai/kimi-k2.6,MoonshotAI: Kimi K2.6,Kimi K2.6,9.5e-07,4e-06,0.95,4.0,2.475,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,gpt-oss-120b,4e-08,1.4e-07,0.04,0.14,0.09000000000000001,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,gpt-oss-20b,3e-08,1.3e-07,0.03,0.13,0.08,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,Qwen3 235B A22B Instruct 2507,1e-07,1e-07,0.09999999999999999,0.09999999999999999,0.09999999999999999,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,Qwen3 235B A22B Thinking 2507,1e-07,1e-07,0.09999999999999999,0.09999999999999999,0.09999999999999999,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,Qwen3 30B A3B Instruct 2507,1e-07,3e-07,0.09999999999999999,0.3,0.19999999999999998,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen3 Coder 480B A35B,1e-06,1.5e-06,1.0,1.5,1.25,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3.5-35b-a3b,Qwen: Qwen3.5-35B-A3B,Qwen3.5-35B-A3B,2.5e-07,1.25e-06,0.25,1.25,0.75,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-27b,Qwen: Qwen3.6 27B,Qwen3.6 27B,6e-07,3.6e-06,0.6,3.5999999999999996,2.0999999999999996,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,qwen/qwen3.6-35b-a3b,Qwen: Qwen3.6 35B A3B,Qwen3.6 35B A3B,2.5e-07,1.25e-06,0.25,1.25,0.75,0.5,0.5
+2026-06-29,Weights & Biases / CoreWeave,WandB,z-ai/glm-5.2,Z.ai: GLM 5.2,GLM 5.2,1.39e-06,4.4e-06,1.3900000000000001,4.4,2.895,0.5,0.5
